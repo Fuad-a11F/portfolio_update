@@ -1,3 +1,3 @@
 # My portfolio project
 ### Unfortunately, I've lost the source code of this project, so I can't support it and fix bugs...
-Link to the site: https://vigilant-galileo-c90a33.netlify.app/portfolio/#
+Link to the site: https://vigilant-galileo-c90a33.netlify.app
